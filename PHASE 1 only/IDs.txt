@@ -1,0 +1,22 @@
+Team 3
+Team-members, ID. Email:
+1)Abdalrahman Essam Mohamed Ismail:
+  ID:1230057 
+  Email: abdo1234567@gmail.com
+  What they have done in the project: Shapes(Output.cpp, with their testcases(Test.cpp), UI_info.h, DEF.S)
+
+2)Darine Sherif Mohamad Sobhy ElFeel:
+  ID:1230180
+  Email: Darine.alaziz05@eng-st.cu.edu.eg
+  What they have done in the project:Draw-toolbar(Output.cpp file, UI_info.h ).
+
+3)Zeina Sherif Ismail Mohamed:
+  ID:1230191
+  Email:Zeina.Mohamed05@eng-st.cu.edu.eg
+  What they have done in the project: Play toolbar(Output.cpp,UI.Info),a part of the Testcases-Actiontype(Testcode.cpp).
+
+4)Mohamad Ahmed Fahmy AbdElaziz Mostafa:
+  ID:1230096
+  Email: Mohamed.elaziz042@eng-st.cu.edu.eg
+  What they have done in the project:Other part of the Testcases-Actiontype(Testcode.cpp).
+
